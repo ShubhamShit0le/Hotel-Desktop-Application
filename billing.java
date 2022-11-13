@@ -930,7 +930,7 @@ public class billing extends javax.swing.JFrame {
                 "\nTime: "+tTime.format(timer.getTime())+
                 "\n------------------------------------------------------------------\n\n" );
         
-          txtrecipt.append("\n *************Desing And Devloped by Rohit Nale*************\n");
+          txtrecipt.append("\n ***********************************************************\n");
     }//GEN-LAST:event_jButton6MouseClicked
 
     private void jButton5MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton5MouseClicked
